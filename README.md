@@ -17,6 +17,7 @@ The goal of this project is to conduct a comprehensive analysis of the hotel dom
                                     <li>Analyzing revenue generated per city.</li>
                                     <li>Analyzing monthly revenue trends.</li>
                                     <li>Assessing revenue by booking platforms.</li>
+                                    
 ## Skills Learned
 * Python Programming: Enhancing proficiency in Python for data analysis,cleaning ,transforamtion and visualization.
 
