@@ -6,16 +6,18 @@ Atliq Grands, a well-established entity in India's hotel industry, is currently 
 The goal of this project is to conduct a comprehensive analysis of the hotel domain using Python. By employing data-driven insights and strategic recommendations, my aim is to empower Atliq Grands to make informed decisions and regain a competitive edge in the industry.
 
 # Project Highlights
-*1* Data Cleaning- Handling missing values and outliers.
-*2* Data Transformation - Added occupancy% columns.
-*3* Insights generation-key questions answered
-          <ol type="I">
+**1** Data Cleaning- Handling missing values and outliers.
+
+**2** Data Transformation - Added occupancy% columns.
+
+**3** Insights generation-key questions answered
+          <ol type="i">
            <li> calculating average occupaancy rate by room type and city.</li>
            <li>Identifying occupancy rate on weekdays and weekends.</li>
            <li>Analyzing revenue generated per city.</li>
            <li>Analyzing monthly revenue trends.</li>
            <li>Assessing revenue by booking platforms.</li>
 # Skills Learned
-* Python Programming: Enhancing proficiency in Python for data analysis,cleaning ,transforamtion and visualization.
-* Data Viusualization: Leveraged Matplotlib library for creating charts and bars.
-* Pandas Fundamentals- creating various dataframes,group by functions,concate and merging,hanling NA values,read csv files etc.
+**-** Python Programming: Enhancing proficiency in Python for data analysis,cleaning ,transforamtion and visualization.
+**-** Data Viusualization: Leveraged Matplotlib library for creating charts and bars.
+**-** Pandas Fundamentals- creating various dataframes,group by functions,concate and merging,hanling NA values,read csv files etc.
